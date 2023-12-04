@@ -1,4 +1,4 @@
-import { sql } from '@vercel/postgres/dist/index-node';
+import { sql } from '@vercel/postgres';
 import {
   CustomerField,
   CustomersTableType,
