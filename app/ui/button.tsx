@@ -1,4 +1,4 @@
-import clsx from 'clsx';
+import clsx from 'clsx/clsx.mjs';
 
 interface ButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {
   children: React.ReactNode;
